@@ -1,0 +1,9 @@
+## License and Usage Terms ##
+
+Here are the terms under which you may use and distribute the game "IntrudeX":
+    1. Usage Rights: You are granted the right to use, modify, and distribute this game for personal and non-commercial purposes.
+    2. Distribution: You may distribute copies of this game, modified or unmodified, to others for free. If you distribute modified versions, please indicate changes made.
+    3. Commercial Use: For commercial purposes, including selling modified versions of this game, please contact the original creator (Blocky30, CONTACT.txt) for permission.
+    4. Attribution: When distributing or sharing this game, please credit the original creator (Blocky30).
+    5. No Warranty: This game is provided "as is", without warranty of any kind. The creator (Blocky30) is not responsible for any damages or issues caused by the use or distribution of this game.
+By using or distributing this game, you agree to these terms. If you have any questions or need further clarification, please contact the creator (Blocky30, CONTACT.TXT)

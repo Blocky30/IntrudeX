@@ -1,0 +1,161 @@
+{
+    "name": "Test Server",
+    "id": "testserver",
+    "ip": "244.231.11.134",
+    "status": "online",
+    "type": "server",
+    "ports": {
+        "22": "ssh",
+        "445": "hash"
+    },
+    "firewall": false,
+    "admin": "skibidi",
+    "connected": [
+        "localhost"
+    ],
+    "contents": [
+        {
+            "type": "directory",
+            "name": "home",
+            "core": true,
+            "contents": [
+                {
+                    "type": "file",
+                    "name": "congratulations.txt",
+                    "content": "Congratulations!\nYou've hacked into your first server!",
+                    "core": false
+                }
+            ]
+        },
+        {
+            "type": "directory",
+            "specialType": "#LOG#",
+            "name": "log",
+            "core": true,
+            "contents": []
+        },
+        {
+            "type": "directory",
+            "specialType": "#BOOT#",
+            "name": "boot",
+            "core": true,
+            "contents": [
+                {
+                    "type": "file",
+                    "specialType": "#BINARY_VERYLONG#",
+                    "name": "vmlinuz-5.13.0-25-generic",
+                    "core": false
+                },
+                {
+                    "type": "file",
+                    "specialType": "#BINARY_VERYLONG#",
+                    "name": "initrd.img-5.13.0-25-generic",
+                    "core": false
+                },
+                {
+                    "type": "file",
+                    "specialType": "#BINARY_VERYLONG#",
+                    "name": "config-5.13.0-25-generic",
+                    "core": false
+                },
+                {
+                    "type": "file",
+                    "specialType": "#BINARY_VERYLONG#",
+                    "name": "System.map-5.13.0-25-generic",
+                    "core": false
+                },
+                {
+                    "type": "file",
+                    "specialType": "#BINARY_VERYLONG#",
+                    "name": "abi-5.13.0-25-generic",
+                    "core": false
+                },
+                {
+                    "type": "file",
+                    "specialType": "#BINARY_VERYLONG#",
+                    "name": "memtest86+.bin",
+                    "core": false
+                },
+                {
+                    "type": "file",
+                    "specialType": "#BINARY_VERYLONG#",
+                    "name": "memtest86+.elf",
+                    "core": false
+                },
+                {
+                    "type": "file",
+                    "specialType": "#BINARY_VERYLONG#",
+                    "name": "memtest86+_multiboot.bin",
+                    "core": false
+                },
+                {
+                    "type": "directory",
+                    "name": "grub",
+                    "core": false,
+                    "contents": [
+                        {
+                            "type": "file",
+                            "specialType": "#BINARY_VERYLONG#",
+                            "name": "grub.cfg",
+                            "core": false
+                        }
+                    ]
+                },
+                {
+                    "type": "directory",
+                    "name": "efi",
+                    "core": false,
+                    "contents": [
+                        {
+                            "type": "directory",
+                            "name": "EFI",
+                            "core": false,
+                            "contents": [
+                                {
+                                    "type": "file",
+                                    "name": "ubuntu",
+                                    "core": false,
+                                    "contents": [
+                                        {
+                                            "type": "file",
+                                            "specialType": "#BINARY_VERYLONG#",
+                                            "name": "grubx64.efi",
+                                            "core": false
+                                        },
+                                        {
+                                            "type": "file",
+                                            "specialType": "#BINARY_VERYLONG#",
+                                            "name": "shimx64.efi",
+                                            "core": false
+                                        },
+                                        {
+                                            "type": "file",
+                                            "specialType": "#BINARY_VERYLONG#",
+                                            "name": "MokManager.efi",
+                                            "core": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "directory",
+            "specialType": "#BINARY#",
+            "name": "bin",
+            "core": true,
+            "contents": [
+                {
+                    "type": "file",
+                    "specialType": "#BINARY_MEDIUM",
+                    "name": "tunes.exe",
+                    "executable": "%TUNES_EXE%",
+                    "core": false
+                }
+            ]
+        }
+    ]
+}
