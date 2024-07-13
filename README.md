@@ -1,4 +1,4 @@
-(Please preview as code because the standard preview option doesn't show my super duper amazing award winning ASCII art)
+(Please preview as code or raw because the standard preview option doesn't show my super duper amazing award winning ASCII art)
 Hi!
 If you're reading this, that means you downloaded my game!
 I just want to let you know that this game runs fully with python.
