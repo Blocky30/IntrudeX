@@ -6,7 +6,7 @@ Before playing, you NEED to make sure to follow this quick setup guide:
 
 Extra - If you don't know how to open a command shell on your device, do this on your according device:
 
-Linux:
+Linux: (Linux is not fully supported right now)
     1. CTRL + ALT + F2
 Windows:
     1. WINDOWS + R
