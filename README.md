@@ -2,11 +2,13 @@
 Hi!
 If you're reading this, that means you downloaded my game!
 I just want to let you know that this game runs fully with python.
+The current Linux version has an issue with the color command.
+It's not game breaking but it's annoying
 Before playing, you NEED to make sure to follow this quick setup guide:
 
 Extra - If you don't know how to open a command shell on your device, do this on your according device:
 
-Linux: (Linux is not fully supported right now)
+Linux:
     1. CTRL + ALT + F2
 Windows:
     1. WINDOWS + R
