@@ -33,26 +33,12 @@ Linux & Windows:<br>
 
 Have fun!<br><br><br>
 
-
-```
- _________  _                        _
-|___   ___|| |                      | |
-    | |    | |____    ___ _  _ ___  | | __    _   _   ___   _   _
-    | |    | '.-. ', / __` || '__ \ | |/ /   | | | | / _ \ | | | |
-    | |    | |   | || (__| || |  | ||   <    | |_| || (_) || |_| |
-    |_|    |_|   |_| \___,_||_|  |_||_|\_\    \__, | \___/  \__,_|
-                                              |___/
-```
-
-for downloading my game!<br>
-I appreciate it so very very much!<br><br>
-
 Credits:<br>
 
 Scripting - Blocky30<br>
 UI - Blocky30<br>
 Music - HOME<br>
-Very much inspired by: Hacknet (Please buy the game if you can, it's incredible and in my opinion way better than mine)<br><br>
+Very much inspired by: Hacknet (Please buy the game if you can, it's incredible)<br><br>
 
 
 By the way you can very much run the python code on its own but I just like the style of it being run in command prompt and the terminal coloring would probably bug out so I don't recommend doing that.<br>
